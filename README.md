@@ -1,5 +1,5 @@
 # git-course
 for zero web school course
-##### comment
+## Notes
 * menna
 https://en.wikipedia.org/wiki/Markdown
